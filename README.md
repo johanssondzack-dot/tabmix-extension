@@ -2,6 +2,10 @@
 
 A Chrome Manifest V3 extension for mixing tab audio levels.
 
+## Status
+
+TabMix is currently distributed through GitHub as a local unpacked extension for development and testing. It is not listed on the Chrome Web Store.
+
 ## Install Locally
 
 1. Open Chrome and go to `chrome://extensions`.
